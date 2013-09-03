@@ -14,7 +14,7 @@ Tested on Mountain Lion 10.8 with Xcode 4.6.
         $ brew tap edy555/bladerf
         $ brew install bladerf --HEAD
 
-# Installing GNURadio and gr-osmosdr
+## GNURadio and gr-osmosdr (optional)
 
 - Install XQuartz
 
